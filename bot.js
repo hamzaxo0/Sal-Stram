@@ -26,9 +26,9 @@ client.on('ready',async () => {
 
 
 
-const devs = ['523832987104837642' , '' , ''];
+const devs = ['288368249194938368' , '' , ''];
 
-const adminprefix = "S";
+const adminprefix = "H";
 
 client.on('message', message => {
 
